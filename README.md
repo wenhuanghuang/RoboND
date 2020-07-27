@@ -7,3 +7,5 @@ Second project was about calculating forward kinematics and backward kinematics 
 Third project was about using point cloud and ML to detect, identify, and pick and place the objects 
 ![Alt text](./Images/rgb.png "3d perception")
 ![Alt text](./Images/rgb2.png "3d perception")
+Last project was about programming a drone to follow a human using PID control and ML 
+![Alt text](./Images/followme.png "follow me")
